@@ -10,7 +10,7 @@ const Footer = () => {
               <Link href={"/"} className="relative" data-animate>
                 <Image width={169} height={47} className="mx-auto md:mx-0" src="/img/gemfeast_logo.png" alt='Logo' />
               </Link>
-              <p data-animate className="mt-[22px] text-sm ">Some footer text about the  Agency. Just a little description to help people understand you better</p>
+              <p data-animate className="mt-[22px] text-sm ">Just a little description to help people understand you better</p>
               <div className="mt-[31px]">
                 <ul className='flex items-center justify-center gap-4'>
                   <li data-animate>
